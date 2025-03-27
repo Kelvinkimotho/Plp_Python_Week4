@@ -2,3 +2,5 @@ File Read & Write Challenge 🖋️: Create a program that reads a file and writ
 Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
 
 My program running:
+
+![image](screenshoot.png)
